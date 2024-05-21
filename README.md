@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bhavyabhardwaj
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bbhardwaj303@gmail.com
 
