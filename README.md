@@ -7,6 +7,8 @@ Welcome to my GitHub profile! I'm a passionate BTech student and an enthusiastic
 - 💼 Seeking opportunities to collaborate and contribute to open-source projects.
 - 📧 Reach me at: [bbhardwaj303@gmail.com](mailto:bbhardwaj303@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=Bhavyabhardwaj&abbreviated=true)
+
 ## 🛠️ Skills & Technologies
 
 ### Front-End Development
