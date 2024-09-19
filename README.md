@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm a passionate BTech student and an enthusiastic
 
 ## 🚀 About Me
 - 🌱 Currently learning and working on various web development projects.
-- 💼 Seeking opportunities to collaborate and contribute to open-source projects.
 
 - [![](https://visitcount.itsvg.in/api?id=Bhavyabhardwaj&icon=6&color=13)](https://visitcount.itsvg.in)
 
