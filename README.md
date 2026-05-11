@@ -1,7 +1,13 @@
-# 👋 Hi, I'm Bhavya Bhardwaj.
+# Bhavya Bhardwaj
+## What I Do
+I build backend systems that work and frontends that don't suck. APIs, databases, real-time features, deployment. I'm fastest with TypeScript and Node.js but I can move across the stack if I need to.
+Need someone to handle websockets, optimize your database, or own a feature end-to-end? That's me.
+# Skills
+## Backend: Node.js, Express, TypeScript, PostgreSQL, Prisma, WebSockets, REST APIs, Database Design
+## Frontend: React, Modern JavaScript, Responsive Design
+## Infrastructure: Docker, AWS (EC2, RDS, S3, Lambda), Database Optimization
+## Other: Git, API Design, Database Architecture
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hunny_bhardwaj00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bbhardwaj303) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bhavya881756073) 
 
 ![](https://github-readme-stats.vercel.app/api?username=Bhavyabhardwaj&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bhavyabhardwaj&theme=dark&hide_border=true)<br/>
