@@ -47,6 +47,4 @@ Need someone to handle websockets, optimize your database, or own a feature end-
 
 ## Get In Touch
 
-Available for remote full-time, freelance projects, and contract work. Prefer backend heavy but happy to do full stack.
-
 Want to work together or have questions about a project? Reach out or open an issue on the repo.
